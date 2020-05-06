@@ -1,0 +1,8 @@
+chatterbot
+Flask
+chatterbot-corpus
+scikit-learn
+numpy
+gunicorn
+pandas
+flask_mail
